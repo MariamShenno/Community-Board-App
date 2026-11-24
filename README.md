@@ -59,17 +59,17 @@ community-board/
 └── README.md
 
 Technologies & Tools
-Flutter & Dart: Cross-platform application development
-Bloc: State management
-Supa base: Authentication, database, and Realtime services
-GoRouter: Application navigation
-GetIt & Injectable: Dependency injection
-Global Event Bus: Communication between application components
-Equatable: Value equality
-FPdart: Functional programming
-JSON Serializable: JSON serialization and deserialization
-Image Picker: Selecting images
-Cached Network Image: Efficient image loading and caching
+- Flutter & Dart: Cross-platform application development
+- Bloc: State management
+- Supa base: Authentication, database, and Realtime services
+- GoRouter: Application navigation
+- GetIt & Injectable: Dependency injection
+- Global Event Bus: Communication between application components
+- Equatable: Value equality
+- FPdart: Functional programming
+- JSON Serializable: JSON serialization and deserialization
+- Image Picker: Selecting images
+- Cached Network Image: Efficient image loading and caching
 
 Getting Started
 Prerequisites
